@@ -1,6 +1,0 @@
-[14-Oct-2016 01:09:34 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/php-examples/101-query-param-exercises/2a/index.php on line 15
-[14-Oct-2016 01:09:34 UTC] PHP Stack trace:
-[14-Oct-2016 01:09:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/php-examples/101-query-param-exercises/2a/index.php:0
-[14-Oct-2016 01:10:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/php-examples/101-query-param-exercises/2a/index.php on line 14
-[14-Oct-2016 01:11:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/php-examples/101-query-param-exercises/2a/index.php on line 14
-[14-Oct-2016 01:11:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/php-examples/101-query-param-exercises/2a/index.php on line 14
