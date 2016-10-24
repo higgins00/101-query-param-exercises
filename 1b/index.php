@@ -5,7 +5,7 @@
 </head>
 <body>
 <form>
-    <input type="text" name="password" value="whatever">
+    <input type="text" name="password">
     <input type="submit">
 </form>
 
