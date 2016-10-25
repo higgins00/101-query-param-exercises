@@ -1,13 +1,13 @@
 <?php
 
     if ($_GET["op"] == "+") {
-        echo ($_GET["num1"] + $_GET["num2"]);
+        echo $_GET['num1'] ." + " . $_GET['num2'] . " = " . ($_GET["num1"] + $_GET["num2"]);
     } elseif ($_GET["op"] == "-") {
-        echo ($_GET["num1"] - $_GET["num2"]);
+        echo $_GET['num1'] ." - " . $_GET['num2'] . " = " . ($_GET["num1"] - $_GET["num2"]);
     } elseif ($_GET["op"] == "*") {
-        echo ($_GET["num1"] * $_GET["num2"]);
+        echo $_GET['num1'] ." * " . $_GET['num2'] . " = " . ($_GET["num1"] * $_GET["num2"]);
     } elseif ($_GET["op"] == "/") {
-        echo ($_GET["num1"] / $_GET["num2"]);
+        echo $_GET['num1'] ." / " . $_GET['num2'] . " = " . ($_GET["num1"] / $_GET["num2"]);
     }
 ?>
 
